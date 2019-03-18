@@ -24,3 +24,4 @@ public class ExampleInstrumentedTest {
         assertEquals("example.edz.easyaccounting", appContext.getPackageName());
     }
 }
+
